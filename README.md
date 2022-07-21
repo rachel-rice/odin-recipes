@@ -1,3 +1,6 @@
-# odin-recipes
+# Arnold & Piper's Favorite Recipes
 
-Basic recipe project. Tried to add some formatting so it isn't completely terrible.
+Basic recipe project
+
+**Tech used:** 
+HTML & CSS
