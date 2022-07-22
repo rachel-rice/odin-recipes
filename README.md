@@ -1,6 +1,12 @@
 # Arnold & Piper's Favorite Recipes
 
-Basic recipe project
+Basic recipe project. Not hosted anywhere, just a simple tutorial.
 
-**Tech used:** 
+## How it's Made:
+
+**Tech Used**
 HTML & CSS
+
+
+
+
